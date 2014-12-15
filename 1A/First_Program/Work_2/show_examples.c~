@@ -2,8 +2,10 @@
 
 int main()
 {
-	int a;
-	a = 5;
-	printf("%d\n", a);
+	char a, b, c;
+	a;
+	b;
+	c;
+	printf(" %c\n %c\n %c\n ", a, b, c);
 	return 0;
 }
